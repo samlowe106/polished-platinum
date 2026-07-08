@@ -1,4 +1,7 @@
-# <img src="docs/giratina-origin.png" alt="Giratina (Origin Forme)" height="32" align="top"> Polished Platinum
+<h1 align="center">
+  <img src="docs/img/giratina_origin_icon.png" width="48" alt="Giratina" />
+  &nbsp;Polished Platinum&nbsp;
+</h1>
 
 This is a minimal ROM hack of Pokemon Platinum that allows completing the Regional Dex and most of the National Dex without external tools or trades, plus a handful of fixes. Based on the decompilation at [pret/pokeplatinum](https://github.com/pret/pokeplatinum).
 
@@ -41,3 +44,9 @@ This is a minimal ROM hack of Pokemon Platinum that allows completing the Region
 # Installation
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
+
+<h1 align="center">
+  <img src="docs/img/dialga_icon.png" width="48" alt="Dialga" />
+  &nbsp;
+  <img src="docs/img/palkia_icon.png" width="48" alt="Palkia" />
+</h1>
